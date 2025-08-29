@@ -14,7 +14,7 @@ Follow these steps to set up and run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/NadineAymanhassan/auth.git
+git clone https://github.com/NadineAymanhassan/auth-project.git
 ```
 
 ### 2. Run Frontend
