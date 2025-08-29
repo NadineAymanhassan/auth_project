@@ -8,10 +8,9 @@ This repository contains a full-stack authentication app with a React frontend a
 Follow these steps to set up and run the project locally.
 
 ### Prerequisites
-- **Node.js** (LTS recommended)
+- **Node.js** 
 - **npm**
-- **MongoDB** (local or Atlas)
-
+- **MongoDB** 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/NadineAymanhassan/auth-project.git
